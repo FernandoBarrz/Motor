@@ -1,0 +1,132 @@
+body {
+      margin: 0;
+      background: #f2f2f2;
+      font-family: Poppins;
+}
+ 
+#navbar {
+      background: #0066cc;
+      position: fixed;
+      top: 0;
+      width: 100%;
+      display: block;
+      transition: top 0.8s;
+}
+ 
+#navbar a {
+      float: left;
+      display: block;
+      color: #fff;
+      font-weight: 300;
+      text-decoration: none;
+      margin: 2em 3em;
+      font-size: 16px;
+}
+ 
+h1 {
+      font-weight: 300;
+}
+ 
+.content {
+      margin: 8em 4em;
+      text-align: justify;
+}
+ 
+p {
+      color: black;
+      font-weight: 300;
+      line-height: 30px;
+}
+
+.historia{
+      text-align: center;
+      align-content: center;
+      justify-content: center;
+      color: brown;
+      font-size: 50px;
+
+}
+.cuerpo1{
+      text-align: justify-all;
+      align-content: justify;
+      justify-content: justify;
+      font-family: arial;
+      font-size: 20px;
+}
+.logomotor{
+      padding-left: 550px;
+      height: 140px;
+      width: 140px;
+      padding-top: 10px;
+}
+.logomotor:hover:focus{
+      background-color: green;
+      border-radius: 60px;
+}
+canvas{
+      align-content: center;
+      text-align: center;
+      float: left;
+
+}
+.botonsito{
+     padding-left: 1000px;
+}
+.parIzq{
+         justify-content: justify;
+      font-family: arial;
+      font-size: 20px;   
+}
+.parDer{
+            justify-content: justify;
+      font-family: arial;
+      font-size: 20px;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td{
+      text-align: center;
+      align-content: center;
+      background-color: #ffffcc;
+      font-family: arial;
+      font-size: 20px;
+}
+.MotorDes{
+      text-align: center;
+      align-content: center;
+      background-color: #006600;  
+      color: white;
+      font-size: 20px;
+      font-family: arial;
+}
+.OtoDes{
+      text-align: center;
+      align-content: center;
+      background-color: #b30000;
+      color: white;
+      font-size: 20px;
+      font-family: arial;
+
+
+}
+.pies:hover{
+      color: gold;
+      font-size: 10px;
+      position: center;
+      text-align: center;
+      align-content: center;
+}
+h3{
+      font-family: arial;
+      font-size: 30px;
+      color: brown;
+      text-align: center;
+      align-content: center;
+
+
+
+
+
+}
