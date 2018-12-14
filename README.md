@@ -1,2 +1,3 @@
 # Motor
-Proyecto pagina web nominalista de posiciones.
+Pagina web, para el proyecto de Física. 
+Muestra el funcionamiento del motor Wenkel
